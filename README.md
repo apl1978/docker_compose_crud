@@ -1,6 +1,6 @@
 # Склады и товары
 
-## Docker (Django, PostgreSQL, Nginx, Gunicorn):
+## Docker Compose (Django, PostgreSQL, Nginx, Gunicorn):
 Команда сборки и запуска:
 docker-compose up -d --build
 
